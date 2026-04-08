@@ -14,7 +14,7 @@ setup(
     description="Real-time emergency gesture detection using computer vision",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/emergency-gesture-detection",
+    url="https://github.com/hrithickrks/emergency-gesture-detection",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
