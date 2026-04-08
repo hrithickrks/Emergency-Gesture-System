@@ -1,0 +1,11 @@
+﻿{
+    "SMTP_SERVER": "smtp.gmail.com",
+    "SMTP_PORT": 587,
+    "SENDER_EMAIL": "your_email@gmail.com",
+    "SENDER_PASSWORD": "your_app_password_here",
+    "RECEIVER_EMAILS": [
+        "emergency_contact1@example.com",
+        "emergency_contact2@example.com"
+    ],
+    "EMAIL_SUBJECT_PREFIX": "EMERGENCY ALERT"
+}
