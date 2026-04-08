@@ -1,8 +1,0 @@
-{
-    "SMTP_SERVER": "smtp.gmail.com",
-    "SMTP_PORT": 587,
-    "SENDER_EMAIL": "k7280680@gmail.com",
-    "SENDER_PASSWORD": "mseo whkk vdrs xhht",
-    "RECEIVER_EMAILS": ["hrithickrks@gmail.com"],
-    "EMAIL_SUBJECT_PREFIX": "EMERGENCY ALERT"
-}
